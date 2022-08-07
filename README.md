@@ -1,5 +1,5 @@
- - Hi, I’m Imad Sab
-- I’m interested in Web and Software Development
-- I’m currently learning web development and programming languages
-- I’m looking to collaborate on Web and Software Development
-- Email me to : abdulimad890@gmail.com 
+ - 👋 Hi, I’m @imads33
+- 👀 I’m interested in Web and Software Development
+- 🌱 I’m currently learning web development and programming languages
+- 💞️ I’m looking to collaborate on Web and Software Development
+- 📫 Mail me to : abdulimad@gmail.com
