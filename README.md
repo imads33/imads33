@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and programming languages
 - 💞️ I’m looking to collaborate on Web and Software Development
 - 📫 How to reach me 
-mail : abdulimad@gmail890.com 
+mail : abdulimad890@gmail.com 
 
 <!---
 imads33/imads33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
