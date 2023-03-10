@@ -1,4 +1,4 @@
- - 👋 Hi, I’m Imad Sab
+ - 👋 Hi, I’m Imad
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning web development and programming languages
 - 📫 Mail me to : abdulimad890@gmail.com
